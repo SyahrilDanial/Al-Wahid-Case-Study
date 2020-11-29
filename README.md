@@ -7,7 +7,7 @@
 
 ## The assigned tasks
 1) Syahril - Data/subject insertion in the schedule.
-2) Izzudin - Create 25 slot / adding field for subject
+2) Izzuddin - Create 25 slots / adding field for subject / Login page
 3) Faiq - Edit code error and add print button
 
 ## Brief Description of the case study
