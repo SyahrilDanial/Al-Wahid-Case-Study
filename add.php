@@ -4,10 +4,10 @@
 
 <body>
 
-<button onclick="document.getElementById('id01').style.display='block'" style="margin:auto;display:block">Add Subject</button>
+<button onclick="document.getElementById('id01').style.display='block'" style="margin:auto;display:block">Add Subject</button>   //MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
 
 <div id="id01" class="modal">
-  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>  //MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
   <form class="modal-content" method="post" action="secondpage.php">
     <div class="container">
       <h1>Add your subjects</h1>
