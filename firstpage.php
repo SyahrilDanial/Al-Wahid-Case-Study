@@ -14,8 +14,9 @@ content of your webpage can be static or dynamic
 -->
 <font face="arial" size="2" color="#000000">   //MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
 <form method="post" action="secondpage.php">    //MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
+<fieldset >
+<legend> Student Login </legend>
 <table>
-
 <tr>
 <td>Name</td>
 <td>:</td>
@@ -31,8 +32,8 @@ content of your webpage can be static or dynamic
 <input type="submit" value="Submit">   //MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
 <input type="reset" value="Clear"></td>  //MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
 </tr>
-
 </table>
+ </fieldset>
 </form>
 </font>
 </body>
