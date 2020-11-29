@@ -3,7 +3,7 @@
 ## Group name : Al-Wahid
 1) AHMAD SYAHRIL DANIAL BIN CHE ZAINAL 1812603
 2) MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
-3) Faiq Shahmy bin Shalizam
+3) FAIQ SHAHMY BIN SHALIZAM
 
 ## The assigned tasks
 1) Syahril - Data/subject insertion in the schedule.
