@@ -2,12 +2,12 @@
 
 ## Group name : Al-Wahid
 1) AHMAD SYAHRIL DANIAL BIN CHE ZAINAL 1812603
-2)
+2) MUHAMMAD IZZUDDIN BIN SUHAILI 1818479
 3)
 
 ## The assigned tasks
 1) Syahril - Data/subject insertion in the schedule.
-2) Izzudin -
+2) Izzudin - Create 25 slot / adding field for subject
 3) Faiq - 
 
 ## Brief Description of the case study
