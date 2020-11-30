@@ -12,8 +12,8 @@
     <div class="container">
       <h1>Add your subjects</h1>
       <hr>
-      <label for="subject"><b>Subject</b></label>
-      <select name="subject" id="subject">
+      <label for="subject"><b>Subject</b></label>	//AHMAD SYAHRIL DANIAL BIN CHE ZAINAL 1812603
+      <select name="subject" id="subject">		//AHMAD SYAHRIL DANIAL BIN CHE ZAINAL 1812603
 	  	 <option selected>Select Subject</option>
   		 <option value="MANAGEMENT INFO SYSTEM">INFO3304</option>
   		 <option value="WEB DEVELOPMENT">INFO3312</option>
