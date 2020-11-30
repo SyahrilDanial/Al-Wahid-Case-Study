@@ -11,7 +11,7 @@
 </head>
 <?php
 	$name = isset($_POST['name']) ? $_POST['name'] : '';
-	$id = isset($_SESSION['matricNo']) ? $_SESSION['matricNo'] : '';
+	$id = isset($_POST['matricNo']) ? $_POST['matricNo'] : '';
 
 	echo $name;
 	echo "<br>";
